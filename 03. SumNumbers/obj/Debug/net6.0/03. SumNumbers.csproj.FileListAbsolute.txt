@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03. SumNumbers\bin\Debug\net6.0\03. SumNumbers.exe
+D:\Softuni\SoftUniC#\03. SumNumbers\bin\Debug\net6.0\03. SumNumbers.deps.json
+D:\Softuni\SoftUniC#\03. SumNumbers\bin\Debug\net6.0\03. SumNumbers.runtimeconfig.json
+D:\Softuni\SoftUniC#\03. SumNumbers\bin\Debug\net6.0\03. SumNumbers.dll
+D:\Softuni\SoftUniC#\03. SumNumbers\bin\Debug\net6.0\03. SumNumbers.pdb
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.dll
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\refint\03. SumNumbers.dll
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.pdb
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\03. SumNumbers.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03. SumNumbers\obj\Debug\net6.0\ref\03. SumNumbers.dll

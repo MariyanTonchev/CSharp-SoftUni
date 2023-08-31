@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.Cinema\bin\Debug\net6.0\01.Cinema.exe
+D:\Softuni\SoftUniC#\01.Cinema\bin\Debug\net6.0\01.Cinema.deps.json
+D:\Softuni\SoftUniC#\01.Cinema\bin\Debug\net6.0\01.Cinema.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.Cinema\bin\Debug\net6.0\01.Cinema.dll
+D:\Softuni\SoftUniC#\01.Cinema\bin\Debug\net6.0\01.Cinema.pdb
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.dll
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\refint\01.Cinema.dll
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.pdb
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\01.Cinema.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.Cinema\obj\Debug\net6.0\ref\01.Cinema.dll

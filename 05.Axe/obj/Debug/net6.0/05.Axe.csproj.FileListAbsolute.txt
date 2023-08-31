@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.Axe\bin\Debug\net6.0\05.Axe.exe
+D:\Softuni\SoftUniC#\05.Axe\bin\Debug\net6.0\05.Axe.deps.json
+D:\Softuni\SoftUniC#\05.Axe\bin\Debug\net6.0\05.Axe.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.Axe\bin\Debug\net6.0\05.Axe.dll
+D:\Softuni\SoftUniC#\05.Axe\bin\Debug\net6.0\05.Axe.pdb
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.dll
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\refint\05.Axe.dll
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.pdb
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\05.Axe.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.Axe\obj\Debug\net6.0\ref\05.Axe.dll

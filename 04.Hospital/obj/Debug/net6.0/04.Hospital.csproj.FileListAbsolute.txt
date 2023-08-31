@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.Hospital\bin\Debug\net6.0\04.Hospital.exe
+D:\Softuni\SoftUniC#\04.Hospital\bin\Debug\net6.0\04.Hospital.deps.json
+D:\Softuni\SoftUniC#\04.Hospital\bin\Debug\net6.0\04.Hospital.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.Hospital\bin\Debug\net6.0\04.Hospital.dll
+D:\Softuni\SoftUniC#\04.Hospital\bin\Debug\net6.0\04.Hospital.pdb
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.dll
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\refint\04.Hospital.dll
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.pdb
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\04.Hospital.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.Hospital\obj\Debug\net6.0\ref\04.Hospital.dll

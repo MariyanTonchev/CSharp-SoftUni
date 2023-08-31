@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.Harvest\bin\Debug\net6.0\04.Harvest.exe
+D:\Softuni\SoftUniC#\04.Harvest\bin\Debug\net6.0\04.Harvest.deps.json
+D:\Softuni\SoftUniC#\04.Harvest\bin\Debug\net6.0\04.Harvest.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.Harvest\bin\Debug\net6.0\04.Harvest.dll
+D:\Softuni\SoftUniC#\04.Harvest\bin\Debug\net6.0\04.Harvest.pdb
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.dll
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\refint\04.Harvest.dll
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.pdb
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\04.Harvest.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.Harvest\obj\Debug\net6.0\ref\04.Harvest.dll

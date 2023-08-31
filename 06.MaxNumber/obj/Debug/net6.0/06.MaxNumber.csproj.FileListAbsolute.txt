@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.exe
+D:\Softuni\SoftUniC#\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.deps.json
+D:\Softuni\SoftUniC#\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.runtimeconfig.json
+D:\Softuni\SoftUniC#\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.dll
+D:\Softuni\SoftUniC#\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.pdb
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.dll
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\refint\06.MaxNumber.dll
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.pdb
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\06.MaxNumber\obj\Debug\net6.0\ref\06.MaxNumber.dll

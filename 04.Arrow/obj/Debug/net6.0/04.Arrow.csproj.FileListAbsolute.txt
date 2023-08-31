@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.Arrow\bin\Debug\net6.0\04.Arrow.exe
+D:\Softuni\SoftUniC#\04.Arrow\bin\Debug\net6.0\04.Arrow.deps.json
+D:\Softuni\SoftUniC#\04.Arrow\bin\Debug\net6.0\04.Arrow.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.Arrow\bin\Debug\net6.0\04.Arrow.dll
+D:\Softuni\SoftUniC#\04.Arrow\bin\Debug\net6.0\04.Arrow.pdb
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.dll
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\refint\04.Arrow.dll
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.pdb
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\04.Arrow.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.Arrow\obj\Debug\net6.0\ref\04.Arrow.dll

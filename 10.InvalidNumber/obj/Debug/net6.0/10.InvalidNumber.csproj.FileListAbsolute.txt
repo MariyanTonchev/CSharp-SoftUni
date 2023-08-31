@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.exe
+D:\Softuni\SoftUniC#\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.deps.json
+D:\Softuni\SoftUniC#\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.runtimeconfig.json
+D:\Softuni\SoftUniC#\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.dll
+D:\Softuni\SoftUniC#\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.pdb
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.dll
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\refint\10.InvalidNumber.dll
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.pdb
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\10.InvalidNumber\obj\Debug\net6.0\ref\10.InvalidNumber.dll

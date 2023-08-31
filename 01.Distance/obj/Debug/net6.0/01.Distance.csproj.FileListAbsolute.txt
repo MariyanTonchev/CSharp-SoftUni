@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\01.Distance\bin\Debug\net6.0\01.Distance.exe
+D:\Softuni\SoftUniC#\01.Distance\bin\Debug\net6.0\01.Distance.deps.json
+D:\Softuni\SoftUniC#\01.Distance\bin\Debug\net6.0\01.Distance.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.Distance\bin\Debug\net6.0\01.Distance.dll
+D:\Softuni\SoftUniC#\01.Distance\bin\Debug\net6.0\01.Distance.pdb
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.dll
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\refint\01.Distance.dll
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.pdb
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\01.Distance.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.Distance\obj\Debug\net6.0\ref\01.Distance.dll

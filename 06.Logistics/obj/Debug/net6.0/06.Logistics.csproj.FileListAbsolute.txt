@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\06.Logistics\bin\Debug\net6.0\06.Logistics.exe
+D:\Softuni\SoftUniC#\06.Logistics\bin\Debug\net6.0\06.Logistics.deps.json
+D:\Softuni\SoftUniC#\06.Logistics\bin\Debug\net6.0\06.Logistics.runtimeconfig.json
+D:\Softuni\SoftUniC#\06.Logistics\bin\Debug\net6.0\06.Logistics.dll
+D:\Softuni\SoftUniC#\06.Logistics\bin\Debug\net6.0\06.Logistics.pdb
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.dll
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\refint\06.Logistics.dll
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.pdb
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\06.Logistics.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\06.Logistics\obj\Debug\net6.0\ref\06.Logistics.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\NumbersFrom1to100\bin\Debug\net6.0\01.NumbersFrom1to100.exe
+D:\Softuni\SoftUniC#\NumbersFrom1to100\bin\Debug\net6.0\01.NumbersFrom1to100.deps.json
+D:\Softuni\SoftUniC#\NumbersFrom1to100\bin\Debug\net6.0\01.NumbersFrom1to100.runtimeconfig.json
+D:\Softuni\SoftUniC#\NumbersFrom1to100\bin\Debug\net6.0\01.NumbersFrom1to100.dll
+D:\Softuni\SoftUniC#\NumbersFrom1to100\bin\Debug\net6.0\01.NumbersFrom1to100.pdb
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.dll
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\refint\01.NumbersFrom1to100.dll
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.pdb
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\01.NumbersFrom1to100.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\NumbersFrom1to100\obj\Debug\net6.0\ref\01.NumbersFrom1to100.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.exe
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.deps.json
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.dll
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.pdb
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.dll
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\refint\01.NumbersEndingIn7.dll
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.pdb
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.NumbersEndingIn7\obj\Debug\net6.0\ref\01.NumbersEndingIn7.dll

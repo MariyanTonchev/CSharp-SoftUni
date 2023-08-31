@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\10.RectangleWithStars\bin\Debug\net6.0\10.RectangleWithStars.exe
+D:\Softuni\SoftUniC#\10.RectangleWithStars\bin\Debug\net6.0\10.RectangleWithStars.deps.json
+D:\Softuni\SoftUniC#\10.RectangleWithStars\bin\Debug\net6.0\10.RectangleWithStars.runtimeconfig.json
+D:\Softuni\SoftUniC#\10.RectangleWithStars\bin\Debug\net6.0\10.RectangleWithStars.dll
+D:\Softuni\SoftUniC#\10.RectangleWithStars\bin\Debug\net6.0\10.RectangleWithStars.pdb
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.dll
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\refint\10.RectangleWithStars.dll
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.pdb
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\10.RectangleWithStars.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\10.RectangleWithStars\obj\Debug\net6.0\ref\10.RectangleWithStars.dll

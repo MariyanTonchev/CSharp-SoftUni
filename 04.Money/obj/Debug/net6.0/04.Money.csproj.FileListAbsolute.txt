@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.Money\bin\Debug\net6.0\04.Money.exe
+D:\Softuni\SoftUniC#\04.Money\bin\Debug\net6.0\04.Money.deps.json
+D:\Softuni\SoftUniC#\04.Money\bin\Debug\net6.0\04.Money.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.Money\bin\Debug\net6.0\04.Money.dll
+D:\Softuni\SoftUniC#\04.Money\bin\Debug\net6.0\04.Money.pdb
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.dll
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\refint\04.Money.dll
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.pdb
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\04.Money.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.Money\obj\Debug\net6.0\ref\04.Money.dll

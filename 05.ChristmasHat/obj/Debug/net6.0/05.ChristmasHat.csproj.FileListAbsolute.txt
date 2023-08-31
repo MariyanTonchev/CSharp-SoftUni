@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\05.ChristmasHat\bin\Debug\net6.0\05.ChristmasHat.exe
+D:\Softuni\SoftUniC#\05.ChristmasHat\bin\Debug\net6.0\05.ChristmasHat.deps.json
+D:\Softuni\SoftUniC#\05.ChristmasHat\bin\Debug\net6.0\05.ChristmasHat.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.ChristmasHat\bin\Debug\net6.0\05.ChristmasHat.dll
+D:\Softuni\SoftUniC#\05.ChristmasHat\bin\Debug\net6.0\05.ChristmasHat.pdb
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.dll
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\refint\05.ChristmasHat.dll
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.pdb
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\05.ChristmasHat.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.ChristmasHat\obj\Debug\net6.0\ref\05.ChristmasHat.dll

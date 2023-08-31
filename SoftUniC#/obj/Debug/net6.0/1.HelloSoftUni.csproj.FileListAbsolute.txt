@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\SoftUniC#\bin\Debug\net6.0\1.HelloSoftUni.exe
+D:\Softuni\SoftUniC#\SoftUniC#\bin\Debug\net6.0\1.HelloSoftUni.deps.json
+D:\Softuni\SoftUniC#\SoftUniC#\bin\Debug\net6.0\1.HelloSoftUni.runtimeconfig.json
+D:\Softuni\SoftUniC#\SoftUniC#\bin\Debug\net6.0\1.HelloSoftUni.dll
+D:\Softuni\SoftUniC#\SoftUniC#\bin\Debug\net6.0\1.HelloSoftUni.pdb
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.dll
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\refint\1.HelloSoftUni.dll
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.pdb
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\1.HelloSoftUni.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\SoftUniC#\obj\Debug\net6.0\ref\1.HelloSoftUni.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.exe
+D:\Softuni\SoftUniC#\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.deps.json
+D:\Softuni\SoftUniC#\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.dll
+D:\Softuni\SoftUniC#\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.pdb
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.dll
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\refint\05.CharacterSequence.dll
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.pdb
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.CharacterSequence\obj\Debug\net6.0\ref\05.CharacterSequence.dll

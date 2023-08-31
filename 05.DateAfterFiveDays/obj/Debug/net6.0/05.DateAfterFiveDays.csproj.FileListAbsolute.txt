@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\bin\Debug\net6.0\05.DateAfterFiveDays.exe
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\bin\Debug\net6.0\05.DateAfterFiveDays.deps.json
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\bin\Debug\net6.0\05.DateAfterFiveDays.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\bin\Debug\net6.0\05.DateAfterFiveDays.dll
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\bin\Debug\net6.0\05.DateAfterFiveDays.pdb
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.dll
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\refint\05.DateAfterFiveDays.dll
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.pdb
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\05.DateAfterFiveDays.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.DateAfterFiveDays\obj\Debug\net6.0\ref\05.DateAfterFiveDays.dll

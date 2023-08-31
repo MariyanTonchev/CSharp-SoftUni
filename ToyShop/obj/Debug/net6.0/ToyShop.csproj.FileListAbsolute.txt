@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\ToyShop\bin\Debug\net6.0\ToyShop.exe
+D:\Softuni\SoftUniC#\ToyShop\bin\Debug\net6.0\ToyShop.deps.json
+D:\Softuni\SoftUniC#\ToyShop\bin\Debug\net6.0\ToyShop.runtimeconfig.json
+D:\Softuni\SoftUniC#\ToyShop\bin\Debug\net6.0\ToyShop.dll
+D:\Softuni\SoftUniC#\ToyShop\bin\Debug\net6.0\ToyShop.pdb
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.dll
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\refint\ToyShop.dll
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.pdb
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ToyShop.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\ToyShop\obj\Debug\net6.0\ref\ToyShop.dll

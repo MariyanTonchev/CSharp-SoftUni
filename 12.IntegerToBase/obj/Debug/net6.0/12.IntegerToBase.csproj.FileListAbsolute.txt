@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\12.IntegerToBase\bin\Debug\net6.0\12.IntegerToBase.exe
+D:\Softuni\SoftUniC#\12.IntegerToBase\bin\Debug\net6.0\12.IntegerToBase.deps.json
+D:\Softuni\SoftUniC#\12.IntegerToBase\bin\Debug\net6.0\12.IntegerToBase.runtimeconfig.json
+D:\Softuni\SoftUniC#\12.IntegerToBase\bin\Debug\net6.0\12.IntegerToBase.dll
+D:\Softuni\SoftUniC#\12.IntegerToBase\bin\Debug\net6.0\12.IntegerToBase.pdb
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.dll
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\refint\12.IntegerToBase.dll
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.pdb
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\12.IntegerToBase.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\12.IntegerToBase\obj\Debug\net6.0\ref\12.IntegerToBase.dll

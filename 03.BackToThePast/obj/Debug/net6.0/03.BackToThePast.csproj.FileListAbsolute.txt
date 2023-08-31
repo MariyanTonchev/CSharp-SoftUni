@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.BackToThePast\bin\Debug\net6.0\03.BackToThePast.exe
+D:\Softuni\SoftUniC#\03.BackToThePast\bin\Debug\net6.0\03.BackToThePast.deps.json
+D:\Softuni\SoftUniC#\03.BackToThePast\bin\Debug\net6.0\03.BackToThePast.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.BackToThePast\bin\Debug\net6.0\03.BackToThePast.dll
+D:\Softuni\SoftUniC#\03.BackToThePast\bin\Debug\net6.0\03.BackToThePast.pdb
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.dll
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\refint\03.BackToThePast.dll
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.pdb
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\03.BackToThePast.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.BackToThePast\obj\Debug\net6.0\ref\03.BackToThePast.dll

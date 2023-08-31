@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+D:\Softuni\SoftUniC#\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+D:\Softuni\SoftUniC#\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+D:\Softuni\SoftUniC#\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll

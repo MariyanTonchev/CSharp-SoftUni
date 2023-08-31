@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\bin\Debug\net6.0\03.Numbers1toNwithStep3.exe
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\bin\Debug\net6.0\03.Numbers1toNwithStep3.deps.json
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\bin\Debug\net6.0\03.Numbers1toNwithStep3.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\bin\Debug\net6.0\03.Numbers1toNwithStep3.dll
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\bin\Debug\net6.0\03.Numbers1toNwithStep3.pdb
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.dll
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\refint\03.Numbers1toNwithStep3.dll
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.pdb
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\03.Numbers1toNwithStep3.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.Numbers1toNwithStep3\obj\Debug\net6.0\ref\03.Numbers1toNwithStep3.dll

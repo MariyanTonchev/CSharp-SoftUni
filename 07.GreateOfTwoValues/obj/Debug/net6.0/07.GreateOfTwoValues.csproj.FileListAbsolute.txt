@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\bin\Debug\net6.0\07.GreateOfTwoValues.exe
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\bin\Debug\net6.0\07.GreateOfTwoValues.deps.json
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\bin\Debug\net6.0\07.GreateOfTwoValues.runtimeconfig.json
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\bin\Debug\net6.0\07.GreateOfTwoValues.dll
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\bin\Debug\net6.0\07.GreateOfTwoValues.pdb
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.dll
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\refint\07.GreateOfTwoValues.dll
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.pdb
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\07.GreateOfTwoValues.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\07.GreateOfTwoValues\obj\Debug\net6.0\ref\07.GreateOfTwoValues.dll

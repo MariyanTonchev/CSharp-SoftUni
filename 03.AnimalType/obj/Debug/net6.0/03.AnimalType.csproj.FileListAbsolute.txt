@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.AnimalType\bin\Debug\net6.0\03.AnimalType.exe
+D:\Softuni\SoftUniC#\03.AnimalType\bin\Debug\net6.0\03.AnimalType.deps.json
+D:\Softuni\SoftUniC#\03.AnimalType\bin\Debug\net6.0\03.AnimalType.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.AnimalType\bin\Debug\net6.0\03.AnimalType.dll
+D:\Softuni\SoftUniC#\03.AnimalType\bin\Debug\net6.0\03.AnimalType.pdb
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.dll
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\refint\03.AnimalType.dll
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.pdb
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\03.AnimalType.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.AnimalType\obj\Debug\net6.0\ref\03.AnimalType.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.exe
+D:\Softuni\SoftUniC#\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.deps.json
+D:\Softuni\SoftUniC#\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.runtimeconfig.json
+D:\Softuni\SoftUniC#\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.dll
+D:\Softuni\SoftUniC#\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.pdb
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.dll
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\refint\12.TradeCommissions.dll
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.pdb
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\12.TradeCommissions\obj\Debug\net6.0\ref\12.TradeCommissions.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.Histogram\bin\Debug\net6.0\03.Histogram.exe
+D:\Softuni\SoftUniC#\03.Histogram\bin\Debug\net6.0\03.Histogram.deps.json
+D:\Softuni\SoftUniC#\03.Histogram\bin\Debug\net6.0\03.Histogram.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.Histogram\bin\Debug\net6.0\03.Histogram.dll
+D:\Softuni\SoftUniC#\03.Histogram\bin\Debug\net6.0\03.Histogram.pdb
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.dll
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\refint\03.Histogram.dll
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.pdb
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\03.Histogram.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.Histogram\obj\Debug\net6.0\ref\03.Histogram.dll

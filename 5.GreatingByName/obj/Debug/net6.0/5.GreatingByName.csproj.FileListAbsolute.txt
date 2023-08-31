@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\5.GreatingByName\bin\Debug\net6.0\5.GreatingByName.exe
+D:\Softuni\SoftUniC#\5.GreatingByName\bin\Debug\net6.0\5.GreatingByName.deps.json
+D:\Softuni\SoftUniC#\5.GreatingByName\bin\Debug\net6.0\5.GreatingByName.runtimeconfig.json
+D:\Softuni\SoftUniC#\5.GreatingByName\bin\Debug\net6.0\5.GreatingByName.dll
+D:\Softuni\SoftUniC#\5.GreatingByName\bin\Debug\net6.0\5.GreatingByName.pdb
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.dll
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\refint\5.GreatingByName.dll
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.pdb
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\5.GreatingByName.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\5.GreatingByName\obj\Debug\net6.0\ref\5.GreatingByName.dll

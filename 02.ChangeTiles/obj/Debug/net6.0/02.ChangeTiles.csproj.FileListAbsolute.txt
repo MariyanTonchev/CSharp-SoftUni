@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\02.ChangeTiles\bin\Debug\net6.0\02.ChangeTiles.exe
+D:\Softuni\SoftUniC#\02.ChangeTiles\bin\Debug\net6.0\02.ChangeTiles.deps.json
+D:\Softuni\SoftUniC#\02.ChangeTiles\bin\Debug\net6.0\02.ChangeTiles.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.ChangeTiles\bin\Debug\net6.0\02.ChangeTiles.dll
+D:\Softuni\SoftUniC#\02.ChangeTiles\bin\Debug\net6.0\02.ChangeTiles.pdb
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.dll
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\refint\02.ChangeTiles.dll
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.pdb
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\02.ChangeTiles.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.ChangeTiles\obj\Debug\net6.0\ref\02.ChangeTiles.dll

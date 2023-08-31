@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\09.PerfectDiamond\bin\Debug\net6.0\09.PerfectDiamond.exe
+D:\Softuni\SoftUniC#\09.PerfectDiamond\bin\Debug\net6.0\09.PerfectDiamond.deps.json
+D:\Softuni\SoftUniC#\09.PerfectDiamond\bin\Debug\net6.0\09.PerfectDiamond.runtimeconfig.json
+D:\Softuni\SoftUniC#\09.PerfectDiamond\bin\Debug\net6.0\09.PerfectDiamond.dll
+D:\Softuni\SoftUniC#\09.PerfectDiamond\bin\Debug\net6.0\09.PerfectDiamond.pdb
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.dll
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\refint\09.PerfectDiamond.dll
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.pdb
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\09.PerfectDiamond.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\09.PerfectDiamond\obj\Debug\net6.0\ref\09.PerfectDiamond.dll

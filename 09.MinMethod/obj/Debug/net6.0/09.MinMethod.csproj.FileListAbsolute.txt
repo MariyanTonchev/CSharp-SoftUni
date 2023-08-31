@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\09.MinMethod\bin\Debug\net6.0\09.MinMethod.exe
+D:\Softuni\SoftUniC#\09.MinMethod\bin\Debug\net6.0\09.MinMethod.deps.json
+D:\Softuni\SoftUniC#\09.MinMethod\bin\Debug\net6.0\09.MinMethod.runtimeconfig.json
+D:\Softuni\SoftUniC#\09.MinMethod\bin\Debug\net6.0\09.MinMethod.dll
+D:\Softuni\SoftUniC#\09.MinMethod\bin\Debug\net6.0\09.MinMethod.pdb
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.dll
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\refint\09.MinMethod.dll
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.pdb
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\09.MinMethod.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\09.MinMethod\obj\Debug\net6.0\ref\09.MinMethod.dll

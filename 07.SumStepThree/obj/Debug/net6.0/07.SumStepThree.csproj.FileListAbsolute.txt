@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\07.SumStepThree\bin\Debug\net6.0\07.SumStepThree.exe
+D:\Softuni\SoftUniC#\07.SumStepThree\bin\Debug\net6.0\07.SumStepThree.deps.json
+D:\Softuni\SoftUniC#\07.SumStepThree\bin\Debug\net6.0\07.SumStepThree.runtimeconfig.json
+D:\Softuni\SoftUniC#\07.SumStepThree\bin\Debug\net6.0\07.SumStepThree.dll
+D:\Softuni\SoftUniC#\07.SumStepThree\bin\Debug\net6.0\07.SumStepThree.pdb
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.dll
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\refint\07.SumStepThree.dll
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.pdb
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\07.SumStepThree.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\07.SumStepThree\obj\Debug\net6.0\ref\07.SumStepThree.dll

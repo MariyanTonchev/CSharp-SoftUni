@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.exe
+D:\Softuni\SoftUniC#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.deps.json
+D:\Softuni\SoftUniC#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.dll
+D:\Softuni\SoftUniC#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.pdb
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.dll
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\refint\01.NumberPyramid.dll
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.pdb
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.NumberPyramid\obj\Debug\net6.0\ref\01.NumberPyramid.dll

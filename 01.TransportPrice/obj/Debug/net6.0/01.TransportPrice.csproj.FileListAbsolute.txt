@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.TransportPrice\bin\Debug\net6.0\01.TransportPrice.exe
+D:\Softuni\SoftUniC#\01.TransportPrice\bin\Debug\net6.0\01.TransportPrice.deps.json
+D:\Softuni\SoftUniC#\01.TransportPrice\bin\Debug\net6.0\01.TransportPrice.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.TransportPrice\bin\Debug\net6.0\01.TransportPrice.dll
+D:\Softuni\SoftUniC#\01.TransportPrice\bin\Debug\net6.0\01.TransportPrice.pdb
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.dll
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\refint\01.TransportPrice.dll
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.pdb
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\01.TransportPrice.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.TransportPrice\obj\Debug\net6.0\ref\01.TransportPrice.dll

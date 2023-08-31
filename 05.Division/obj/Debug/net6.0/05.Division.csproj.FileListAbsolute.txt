@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.Division\bin\Debug\net6.0\05.Division.exe
+D:\Softuni\SoftUniC#\05.Division\bin\Debug\net6.0\05.Division.deps.json
+D:\Softuni\SoftUniC#\05.Division\bin\Debug\net6.0\05.Division.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.Division\bin\Debug\net6.0\05.Division.dll
+D:\Softuni\SoftUniC#\05.Division\bin\Debug\net6.0\05.Division.pdb
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.dll
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\refint\05.Division.dll
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.pdb
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\05.Division.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.Division\obj\Debug\net6.0\ref\05.Division.dll

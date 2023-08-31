@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.Clock\bin\Debug\net6.0\01.Clock.exe
+D:\Softuni\SoftUniC#\01.Clock\bin\Debug\net6.0\01.Clock.deps.json
+D:\Softuni\SoftUniC#\01.Clock\bin\Debug\net6.0\01.Clock.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.Clock\bin\Debug\net6.0\01.Clock.dll
+D:\Softuni\SoftUniC#\01.Clock\bin\Debug\net6.0\01.Clock.pdb
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.dll
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\refint\01.Clock.dll
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.pdb
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\01.Clock.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.Clock\obj\Debug\net6.0\ref\01.Clock.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.exe
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.deps.json
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.dll
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.pdb
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.dll
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\refint\02.EqualSumsEvenOddPosition.dll
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.pdb
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\ref\02.EqualSumsEvenOddPosition.dll

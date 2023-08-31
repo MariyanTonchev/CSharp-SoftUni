@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.ReadText\bin\Debug\net6.0\01.ReadText.exe
+D:\Softuni\SoftUniC#\01.ReadText\bin\Debug\net6.0\01.ReadText.deps.json
+D:\Softuni\SoftUniC#\01.ReadText\bin\Debug\net6.0\01.ReadText.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.ReadText\bin\Debug\net6.0\01.ReadText.dll
+D:\Softuni\SoftUniC#\01.ReadText\bin\Debug\net6.0\01.ReadText.pdb
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.dll
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\refint\01.ReadText.dll
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.pdb
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\01.ReadText.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.ReadText\obj\Debug\net6.0\ref\01.ReadText.dll

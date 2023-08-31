@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\bin\Debug\net6.0\04.DrawFilledSquare.exe
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\bin\Debug\net6.0\04.DrawFilledSquare.deps.json
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\bin\Debug\net6.0\04.DrawFilledSquare.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\bin\Debug\net6.0\04.DrawFilledSquare.dll
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\bin\Debug\net6.0\04.DrawFilledSquare.pdb
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.dll
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\refint\04.DrawFilledSquare.dll
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.pdb
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\04.DrawFilledSquare.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.DrawFilledSquare\obj\Debug\net6.0\ref\04.DrawFilledSquare.dll

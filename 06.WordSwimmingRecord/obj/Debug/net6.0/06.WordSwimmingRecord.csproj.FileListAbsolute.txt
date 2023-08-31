@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\bin\Debug\net6.0\06.WordSwimmingRecord.exe
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\bin\Debug\net6.0\06.WordSwimmingRecord.deps.json
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\bin\Debug\net6.0\06.WordSwimmingRecord.runtimeconfig.json
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\bin\Debug\net6.0\06.WordSwimmingRecord.dll
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\bin\Debug\net6.0\06.WordSwimmingRecord.pdb
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.dll
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\refint\06.WordSwimmingRecord.dll
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.pdb
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\06.WordSwimmingRecord.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\06.WordSwimmingRecord\obj\Debug\net6.0\ref\06.WordSwimmingRecord.dll

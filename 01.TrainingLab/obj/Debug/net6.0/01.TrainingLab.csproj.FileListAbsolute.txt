@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.TrainingLab\bin\Debug\net6.0\01.TrainingLab.exe
+D:\Softuni\SoftUniC#\01.TrainingLab\bin\Debug\net6.0\01.TrainingLab.deps.json
+D:\Softuni\SoftUniC#\01.TrainingLab\bin\Debug\net6.0\01.TrainingLab.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.TrainingLab\bin\Debug\net6.0\01.TrainingLab.dll
+D:\Softuni\SoftUniC#\01.TrainingLab\bin\Debug\net6.0\01.TrainingLab.pdb
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.dll
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\refint\01.TrainingLab.dll
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.pdb
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\01.TrainingLab.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.TrainingLab\obj\Debug\net6.0\ref\01.TrainingLab.dll

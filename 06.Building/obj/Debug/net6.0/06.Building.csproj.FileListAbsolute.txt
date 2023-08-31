@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\06.Building\bin\Debug\net6.0\06.Building.exe
+D:\Softuni\SoftUniC#\06.Building\bin\Debug\net6.0\06.Building.deps.json
+D:\Softuni\SoftUniC#\06.Building\bin\Debug\net6.0\06.Building.runtimeconfig.json
+D:\Softuni\SoftUniC#\06.Building\bin\Debug\net6.0\06.Building.dll
+D:\Softuni\SoftUniC#\06.Building\bin\Debug\net6.0\06.Building.pdb
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.dll
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\refint\06.Building.dll
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.pdb
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\06.Building.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\06.Building\obj\Debug\net6.0\ref\06.Building.dll

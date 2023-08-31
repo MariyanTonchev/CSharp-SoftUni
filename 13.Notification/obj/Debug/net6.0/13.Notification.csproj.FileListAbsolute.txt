@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\13.Notification\bin\Debug\net6.0\13.Notification.exe
+D:\Softuni\SoftUniC#\13.Notification\bin\Debug\net6.0\13.Notification.deps.json
+D:\Softuni\SoftUniC#\13.Notification\bin\Debug\net6.0\13.Notification.runtimeconfig.json
+D:\Softuni\SoftUniC#\13.Notification\bin\Debug\net6.0\13.Notification.dll
+D:\Softuni\SoftUniC#\13.Notification\bin\Debug\net6.0\13.Notification.pdb
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.dll
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\refint\13.Notification.dll
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.pdb
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\13.Notification.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\13.Notification\obj\Debug\net6.0\ref\13.Notification.dll

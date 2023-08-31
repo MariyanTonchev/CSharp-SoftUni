@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\12.GenerateRectangles\bin\Debug\net6.0\12.GenerateRectangles.exe
+D:\Softuni\SoftUniC#\12.GenerateRectangles\bin\Debug\net6.0\12.GenerateRectangles.deps.json
+D:\Softuni\SoftUniC#\12.GenerateRectangles\bin\Debug\net6.0\12.GenerateRectangles.runtimeconfig.json
+D:\Softuni\SoftUniC#\12.GenerateRectangles\bin\Debug\net6.0\12.GenerateRectangles.dll
+D:\Softuni\SoftUniC#\12.GenerateRectangles\bin\Debug\net6.0\12.GenerateRectangles.pdb
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.dll
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\refint\12.GenerateRectangles.dll
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.pdb
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\12.GenerateRectangles.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\12.GenerateRectangles\obj\Debug\net6.0\ref\12.GenerateRectangles.dll

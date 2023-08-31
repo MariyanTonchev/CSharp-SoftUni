@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.DrawFort\bin\Debug\net6.0\01.DrawFort.exe
+D:\Softuni\SoftUniC#\01.DrawFort\bin\Debug\net6.0\01.DrawFort.deps.json
+D:\Softuni\SoftUniC#\01.DrawFort\bin\Debug\net6.0\01.DrawFort.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.DrawFort\bin\Debug\net6.0\01.DrawFort.dll
+D:\Softuni\SoftUniC#\01.DrawFort\bin\Debug\net6.0\01.DrawFort.pdb
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.dll
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\refint\01.DrawFort.dll
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.pdb
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\01.DrawFort.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.DrawFort\obj\Debug\net6.0\ref\01.DrawFort.dll

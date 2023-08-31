@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.exe
+D:\Softuni\SoftUniC#\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.deps.json
+D:\Softuni\SoftUniC#\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.runtimeconfig.json
+D:\Softuni\SoftUniC#\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.dll
+D:\Softuni\SoftUniC#\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.pdb
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.dll
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\refint\06.CinemaTickets.dll
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.pdb
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\06.CinemaTickets\obj\Debug\net6.0\ref\06.CinemaTickets.dll

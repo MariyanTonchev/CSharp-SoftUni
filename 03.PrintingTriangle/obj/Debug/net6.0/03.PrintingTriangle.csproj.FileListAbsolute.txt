@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.exe
+D:\Softuni\SoftUniC#\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.deps.json
+D:\Softuni\SoftUniC#\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.dll
+D:\Softuni\SoftUniC#\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.pdb
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.dll
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\refint\03.PrintingTriangle.dll
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.pdb
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.PrintingTriangle\obj\Debug\net6.0\ref\03.PrintingTriangle.dll

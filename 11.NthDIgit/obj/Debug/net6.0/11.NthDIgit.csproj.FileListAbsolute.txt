@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\11.NthDIgit\bin\Debug\net6.0\11.NthDIgit.exe
+D:\Softuni\SoftUniC#\11.NthDIgit\bin\Debug\net6.0\11.NthDIgit.deps.json
+D:\Softuni\SoftUniC#\11.NthDIgit\bin\Debug\net6.0\11.NthDIgit.runtimeconfig.json
+D:\Softuni\SoftUniC#\11.NthDIgit\bin\Debug\net6.0\11.NthDIgit.dll
+D:\Softuni\SoftUniC#\11.NthDIgit\bin\Debug\net6.0\11.NthDIgit.pdb
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.dll
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\refint\11.NthDIgit.dll
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.pdb
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\11.NthDIgit.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\11.NthDIgit\obj\Debug\net6.0\ref\11.NthDIgit.dll

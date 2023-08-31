@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.MatchTickets\bin\Debug\net6.0\04.MatchTickets.exe
+D:\Softuni\SoftUniC#\04.MatchTickets\bin\Debug\net6.0\04.MatchTickets.deps.json
+D:\Softuni\SoftUniC#\04.MatchTickets\bin\Debug\net6.0\04.MatchTickets.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.MatchTickets\bin\Debug\net6.0\04.MatchTickets.dll
+D:\Softuni\SoftUniC#\04.MatchTickets\bin\Debug\net6.0\04.MatchTickets.pdb
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.dll
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\refint\04.MatchTickets.dll
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.pdb
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\04.MatchTickets.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.MatchTickets\obj\Debug\net6.0\ref\04.MatchTickets.dll

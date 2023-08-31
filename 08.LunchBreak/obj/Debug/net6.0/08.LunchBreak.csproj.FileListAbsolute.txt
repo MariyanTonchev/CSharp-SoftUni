@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.exe
+D:\Softuni\SoftUniC#\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.deps.json
+D:\Softuni\SoftUniC#\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.runtimeconfig.json
+D:\Softuni\SoftUniC#\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.dll
+D:\Softuni\SoftUniC#\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.pdb
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.dll
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\refint\08.LunchBreak.dll
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.pdb
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\08.LunchBreak\obj\Debug\net6.0\ref\08.LunchBreak.dll

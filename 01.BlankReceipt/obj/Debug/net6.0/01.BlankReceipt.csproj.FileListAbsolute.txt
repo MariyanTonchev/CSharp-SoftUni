@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\01.BlankReceipt\bin\Debug\net6.0\01.BlankReceipt.exe
+D:\Softuni\SoftUniC#\01.BlankReceipt\bin\Debug\net6.0\01.BlankReceipt.deps.json
+D:\Softuni\SoftUniC#\01.BlankReceipt\bin\Debug\net6.0\01.BlankReceipt.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.BlankReceipt\bin\Debug\net6.0\01.BlankReceipt.dll
+D:\Softuni\SoftUniC#\01.BlankReceipt\bin\Debug\net6.0\01.BlankReceipt.pdb
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.dll
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\refint\01.BlankReceipt.dll
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.pdb
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\01.BlankReceipt.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.BlankReceipt\obj\Debug\net6.0\ref\01.BlankReceipt.dll

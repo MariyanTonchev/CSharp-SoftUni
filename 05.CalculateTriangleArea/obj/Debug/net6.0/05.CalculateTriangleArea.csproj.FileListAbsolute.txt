@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\bin\Debug\net6.0\05.CalculateTriangleArea.exe
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\bin\Debug\net6.0\05.CalculateTriangleArea.deps.json
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\bin\Debug\net6.0\05.CalculateTriangleArea.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\bin\Debug\net6.0\05.CalculateTriangleArea.dll
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\bin\Debug\net6.0\05.CalculateTriangleArea.pdb
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.dll
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\refint\05.CalculateTriangleArea.dll
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.pdb
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\05.CalculateTriangleArea.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.CalculateTriangleArea\obj\Debug\net6.0\ref\05.CalculateTriangleArea.dll

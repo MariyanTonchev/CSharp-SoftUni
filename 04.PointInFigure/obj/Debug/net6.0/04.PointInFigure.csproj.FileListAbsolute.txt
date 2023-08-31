@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.PointInFigure\bin\Debug\net6.0\04.PointInFigure.exe
+D:\Softuni\SoftUniC#\04.PointInFigure\bin\Debug\net6.0\04.PointInFigure.deps.json
+D:\Softuni\SoftUniC#\04.PointInFigure\bin\Debug\net6.0\04.PointInFigure.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.PointInFigure\bin\Debug\net6.0\04.PointInFigure.dll
+D:\Softuni\SoftUniC#\04.PointInFigure\bin\Debug\net6.0\04.PointInFigure.pdb
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.dll
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\refint\04.PointInFigure.dll
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.pdb
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\04.PointInFigure.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.PointInFigure\obj\Debug\net6.0\ref\04.PointInFigure.dll

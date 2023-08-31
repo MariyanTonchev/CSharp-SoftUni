@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.exe
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.deps.json
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.dll
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.pdb
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.dll
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\refint\05.GodzillaVsKong.dll
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.pdb
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.GodzillaVsKong\obj\Debug\net6.0\ref\05.GodzillaVsKong.dll

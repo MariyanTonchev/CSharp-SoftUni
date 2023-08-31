@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\01.TriangleArea\bin\Debug\net6.0\01.TriangleArea.exe
+D:\Softuni\SoftUniC#\01.TriangleArea\bin\Debug\net6.0\01.TriangleArea.deps.json
+D:\Softuni\SoftUniC#\01.TriangleArea\bin\Debug\net6.0\01.TriangleArea.runtimeconfig.json
+D:\Softuni\SoftUniC#\01.TriangleArea\bin\Debug\net6.0\01.TriangleArea.dll
+D:\Softuni\SoftUniC#\01.TriangleArea\bin\Debug\net6.0\01.TriangleArea.pdb
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.dll
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\refint\01.TriangleArea.dll
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.pdb
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\01.TriangleArea.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\01.TriangleArea\obj\Debug\net6.0\ref\01.TriangleArea.dll

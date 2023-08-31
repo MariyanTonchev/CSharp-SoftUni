@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.Combinations\bin\Debug\net6.0\03.Combinations.exe
+D:\Softuni\SoftUniC#\03.Combinations\bin\Debug\net6.0\03.Combinations.deps.json
+D:\Softuni\SoftUniC#\03.Combinations\bin\Debug\net6.0\03.Combinations.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.Combinations\bin\Debug\net6.0\03.Combinations.dll
+D:\Softuni\SoftUniC#\03.Combinations\bin\Debug\net6.0\03.Combinations.pdb
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.dll
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\refint\03.Combinations.dll
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.pdb
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\03.Combinations.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.Combinations\obj\Debug\net6.0\ref\03.Combinations.dll

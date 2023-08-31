@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\bin\Debug\net6.0\02.SignOfIntegerNumber.exe
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\bin\Debug\net6.0\02.SignOfIntegerNumber.deps.json
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\bin\Debug\net6.0\02.SignOfIntegerNumber.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\bin\Debug\net6.0\02.SignOfIntegerNumber.dll
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\bin\Debug\net6.0\02.SignOfIntegerNumber.pdb
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.dll
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\refint\02.SignOfIntegerNumber.dll
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.pdb
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\02.SignOfIntegerNumber.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.SignOfIntegerNumber\obj\Debug\net6.0\ref\02.SignOfIntegerNumber.dll

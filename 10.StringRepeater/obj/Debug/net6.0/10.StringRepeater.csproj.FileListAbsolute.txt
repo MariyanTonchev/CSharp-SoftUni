@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\10.StringRepeater\bin\Debug\net6.0\10.StringRepeater.exe
+D:\Softuni\SoftUniC#\10.StringRepeater\bin\Debug\net6.0\10.StringRepeater.deps.json
+D:\Softuni\SoftUniC#\10.StringRepeater\bin\Debug\net6.0\10.StringRepeater.runtimeconfig.json
+D:\Softuni\SoftUniC#\10.StringRepeater\bin\Debug\net6.0\10.StringRepeater.dll
+D:\Softuni\SoftUniC#\10.StringRepeater\bin\Debug\net6.0\10.StringRepeater.pdb
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.dll
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\refint\10.StringRepeater.dll
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.pdb
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\10.StringRepeater.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\10.StringRepeater\obj\Debug\net6.0\ref\10.StringRepeater.dll

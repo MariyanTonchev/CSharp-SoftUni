@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.Digits\bin\Debug\net6.0\05.Digits.exe
+D:\Softuni\SoftUniC#\05.Digits\bin\Debug\net6.0\05.Digits.deps.json
+D:\Softuni\SoftUniC#\05.Digits\bin\Debug\net6.0\05.Digits.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.Digits\bin\Debug\net6.0\05.Digits.dll
+D:\Softuni\SoftUniC#\05.Digits\bin\Debug\net6.0\05.Digits.pdb
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.dll
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\refint\05.Digits.dll
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.pdb
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\05.Digits.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.Digits\obj\Debug\net6.0\ref\05.Digits.dll

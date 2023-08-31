@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.CleverLilly\bin\Debug\net6.0\04.CleverLilly.exe
+D:\Softuni\SoftUniC#\04.CleverLilly\bin\Debug\net6.0\04.CleverLilly.deps.json
+D:\Softuni\SoftUniC#\04.CleverLilly\bin\Debug\net6.0\04.CleverLilly.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.CleverLilly\bin\Debug\net6.0\04.CleverLilly.dll
+D:\Softuni\SoftUniC#\04.CleverLilly\bin\Debug\net6.0\04.CleverLilly.pdb
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.dll
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\refint\04.CleverLilly.dll
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.pdb
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\04.CleverLilly.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.CleverLilly\obj\Debug\net6.0\ref\04.CleverLilly.dll

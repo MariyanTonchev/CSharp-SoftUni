@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.exe
+D:\Softuni\SoftUniC#\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.deps.json
+D:\Softuni\SoftUniC#\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.runtimeconfig.json
+D:\Softuni\SoftUniC#\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.dll
+D:\Softuni\SoftUniC#\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.pdb
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.dll
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\refint\07.TrekkingMania.dll
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.pdb
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\07.TrekkingMania\obj\Debug\net6.0\ref\07.TrekkingMania.dll

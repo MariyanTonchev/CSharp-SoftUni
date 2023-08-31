@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\07.AreasOfFigures\bin\Debug\net6.0\07.AreasOfFigures.exe
+D:\Softuni\SoftUniC#\07.AreasOfFigures\bin\Debug\net6.0\07.AreasOfFigures.deps.json
+D:\Softuni\SoftUniC#\07.AreasOfFigures\bin\Debug\net6.0\07.AreasOfFigures.runtimeconfig.json
+D:\Softuni\SoftUniC#\07.AreasOfFigures\bin\Debug\net6.0\07.AreasOfFigures.dll
+D:\Softuni\SoftUniC#\07.AreasOfFigures\bin\Debug\net6.0\07.AreasOfFigures.pdb
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.dll
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\refint\07.AreasOfFigures.dll
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.pdb
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\07.AreasOfFigures.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\07.AreasOfFigures\obj\Debug\net6.0\ref\07.AreasOfFigures.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.SleepyTomCat\bin\Debug\net6.0\03.SleepyTomCat.exe
+D:\Softuni\SoftUniC#\03.SleepyTomCat\bin\Debug\net6.0\03.SleepyTomCat.deps.json
+D:\Softuni\SoftUniC#\03.SleepyTomCat\bin\Debug\net6.0\03.SleepyTomCat.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.SleepyTomCat\bin\Debug\net6.0\03.SleepyTomCat.dll
+D:\Softuni\SoftUniC#\03.SleepyTomCat\bin\Debug\net6.0\03.SleepyTomCat.pdb
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.dll
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\refint\03.SleepyTomCat.dll
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.pdb
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\03.SleepyTomCat.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.SleepyTomCat\obj\Debug\net6.0\ref\03.SleepyTomCat.dll

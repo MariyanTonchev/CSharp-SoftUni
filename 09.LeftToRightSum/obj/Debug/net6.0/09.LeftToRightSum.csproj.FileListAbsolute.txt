@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\09.LeftToRightSum\bin\Debug\net6.0\09.LeftToRightSum.exe
+D:\Softuni\SoftUniC#\09.LeftToRightSum\bin\Debug\net6.0\09.LeftToRightSum.deps.json
+D:\Softuni\SoftUniC#\09.LeftToRightSum\bin\Debug\net6.0\09.LeftToRightSum.runtimeconfig.json
+D:\Softuni\SoftUniC#\09.LeftToRightSum\bin\Debug\net6.0\09.LeftToRightSum.dll
+D:\Softuni\SoftUniC#\09.LeftToRightSum\bin\Debug\net6.0\09.LeftToRightSum.pdb
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.dll
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\refint\09.LeftToRightSum.dll
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.pdb
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\09.LeftToRightSum.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\09.LeftToRightSum\obj\Debug\net6.0\ref\09.LeftToRightSum.dll

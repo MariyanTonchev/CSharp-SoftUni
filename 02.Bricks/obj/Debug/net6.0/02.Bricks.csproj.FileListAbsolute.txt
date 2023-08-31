@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.Bricks\bin\Debug\net6.0\02.Bricks.exe
+D:\Softuni\SoftUniC#\02.Bricks\bin\Debug\net6.0\02.Bricks.deps.json
+D:\Softuni\SoftUniC#\02.Bricks\bin\Debug\net6.0\02.Bricks.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.Bricks\bin\Debug\net6.0\02.Bricks.dll
+D:\Softuni\SoftUniC#\02.Bricks\bin\Debug\net6.0\02.Bricks.pdb
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.dll
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\refint\02.Bricks.dll
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.pdb
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\02.Bricks.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.Bricks\obj\Debug\net6.0\ref\02.Bricks.dll

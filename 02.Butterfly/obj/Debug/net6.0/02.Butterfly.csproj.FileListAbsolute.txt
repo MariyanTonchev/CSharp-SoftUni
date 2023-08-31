@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.Butterfly\bin\Debug\net6.0\02.Butterfly.exe
+D:\Softuni\SoftUniC#\02.Butterfly\bin\Debug\net6.0\02.Butterfly.deps.json
+D:\Softuni\SoftUniC#\02.Butterfly\bin\Debug\net6.0\02.Butterfly.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.Butterfly\bin\Debug\net6.0\02.Butterfly.dll
+D:\Softuni\SoftUniC#\02.Butterfly\bin\Debug\net6.0\02.Butterfly.pdb
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.dll
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\refint\02.Butterfly.dll
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.pdb
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\02.Butterfly.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.Butterfly\obj\Debug\net6.0\ref\02.Butterfly.dll

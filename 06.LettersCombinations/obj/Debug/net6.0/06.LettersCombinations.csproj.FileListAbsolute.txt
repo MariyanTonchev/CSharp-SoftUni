@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\06.LettersCombinations\bin\Debug\net6.0\06.LettersCombinations.exe
+D:\Softuni\SoftUniC#\06.LettersCombinations\bin\Debug\net6.0\06.LettersCombinations.deps.json
+D:\Softuni\SoftUniC#\06.LettersCombinations\bin\Debug\net6.0\06.LettersCombinations.runtimeconfig.json
+D:\Softuni\SoftUniC#\06.LettersCombinations\bin\Debug\net6.0\06.LettersCombinations.dll
+D:\Softuni\SoftUniC#\06.LettersCombinations\bin\Debug\net6.0\06.LettersCombinations.pdb
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.dll
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\refint\06.LettersCombinations.dll
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.pdb
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\06.LettersCombinations.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\06.LettersCombinations\obj\Debug\net6.0\ref\06.LettersCombinations.dll

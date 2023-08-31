@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.SmallShop\bin\Debug\net6.0\05.SmallShop.exe
+D:\Softuni\SoftUniC#\05.SmallShop\bin\Debug\net6.0\05.SmallShop.deps.json
+D:\Softuni\SoftUniC#\05.SmallShop\bin\Debug\net6.0\05.SmallShop.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.SmallShop\bin\Debug\net6.0\05.SmallShop.dll
+D:\Softuni\SoftUniC#\05.SmallShop\bin\Debug\net6.0\05.SmallShop.pdb
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.dll
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\refint\05.SmallShop.dll
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.pdb
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\05.SmallShop.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.SmallShop\obj\Debug\net6.0\ref\05.SmallShop.dll

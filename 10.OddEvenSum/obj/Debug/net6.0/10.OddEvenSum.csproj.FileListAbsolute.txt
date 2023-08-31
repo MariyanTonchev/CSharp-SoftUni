@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.exe
+D:\Softuni\SoftUniC#\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.deps.json
+D:\Softuni\SoftUniC#\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.runtimeconfig.json
+D:\Softuni\SoftUniC#\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.dll
+D:\Softuni\SoftUniC#\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.pdb
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.dll
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\refint\10.OddEvenSum.dll
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.pdb
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\10.OddEvenSum\obj\Debug\net6.0\ref\10.OddEvenSum.dll

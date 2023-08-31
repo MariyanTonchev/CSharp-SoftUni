@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\bin\Debug\net6.0\03.TimePlus15Minutes.exe
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\bin\Debug\net6.0\03.TimePlus15Minutes.deps.json
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\bin\Debug\net6.0\03.TimePlus15Minutes.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\bin\Debug\net6.0\03.TimePlus15Minutes.dll
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\bin\Debug\net6.0\03.TimePlus15Minutes.pdb
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.dll
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\refint\03.TimePlus15Minutes.dll
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.pdb
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\03.TimePlus15Minutes.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.TimePlus15Minutes\obj\Debug\net6.0\ref\03.TimePlus15Minutes.dll

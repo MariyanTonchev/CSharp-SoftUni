@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.Firm\bin\Debug\net6.0\05.Firm.exe
+D:\Softuni\SoftUniC#\05.Firm\bin\Debug\net6.0\05.Firm.deps.json
+D:\Softuni\SoftUniC#\05.Firm\bin\Debug\net6.0\05.Firm.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.Firm\bin\Debug\net6.0\05.Firm.dll
+D:\Softuni\SoftUniC#\05.Firm\bin\Debug\net6.0\05.Firm.pdb
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.dll
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\refint\05.Firm.dll
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.pdb
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\05.Firm.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.Firm\obj\Debug\net6.0\ref\05.Firm.dll

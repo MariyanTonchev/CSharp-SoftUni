@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\05.DailyEarnings\bin\Debug\net6.0\05.DailyEarnings.exe
+D:\Softuni\SoftUniC#\05.DailyEarnings\bin\Debug\net6.0\05.DailyEarnings.deps.json
+D:\Softuni\SoftUniC#\05.DailyEarnings\bin\Debug\net6.0\05.DailyEarnings.runtimeconfig.json
+D:\Softuni\SoftUniC#\05.DailyEarnings\bin\Debug\net6.0\05.DailyEarnings.dll
+D:\Softuni\SoftUniC#\05.DailyEarnings\bin\Debug\net6.0\05.DailyEarnings.pdb
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.dll
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\refint\05.DailyEarnings.dll
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.pdb
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\05.DailyEarnings.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\05.DailyEarnings\obj\Debug\net6.0\ref\05.DailyEarnings.dll

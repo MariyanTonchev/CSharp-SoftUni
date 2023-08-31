@@ -1,0 +1,14 @@
+D:\Softuni\SoftUniC#\14.NumbersToWords\bin\Debug\net6.0\14.NumbersToWords.exe
+D:\Softuni\SoftUniC#\14.NumbersToWords\bin\Debug\net6.0\14.NumbersToWords.deps.json
+D:\Softuni\SoftUniC#\14.NumbersToWords\bin\Debug\net6.0\14.NumbersToWords.runtimeconfig.json
+D:\Softuni\SoftUniC#\14.NumbersToWords\bin\Debug\net6.0\14.NumbersToWords.dll
+D:\Softuni\SoftUniC#\14.NumbersToWords\bin\Debug\net6.0\14.NumbersToWords.pdb
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.dll
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\refint\14.NumbersToWords.dll
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.pdb
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\14.NumbersToWords.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\14.NumbersToWords\obj\Debug\net6.0\ref\14.NumbersToWords.dll

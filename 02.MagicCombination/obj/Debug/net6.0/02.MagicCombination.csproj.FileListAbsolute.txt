@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.MagicCombination\bin\Debug\net6.0\02.MagicCombination.exe
+D:\Softuni\SoftUniC#\02.MagicCombination\bin\Debug\net6.0\02.MagicCombination.deps.json
+D:\Softuni\SoftUniC#\02.MagicCombination\bin\Debug\net6.0\02.MagicCombination.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.MagicCombination\bin\Debug\net6.0\02.MagicCombination.dll
+D:\Softuni\SoftUniC#\02.MagicCombination\bin\Debug\net6.0\02.MagicCombination.pdb
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.dll
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\refint\02.MagicCombination.dll
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.pdb
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\02.MagicCombination.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.MagicCombination\obj\Debug\net6.0\ref\02.MagicCombination.dll

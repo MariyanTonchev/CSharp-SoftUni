@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\07.MinNumber\bin\Debug\net6.0\07.MinNumber.exe
+D:\Softuni\SoftUniC#\07.MinNumber\bin\Debug\net6.0\07.MinNumber.deps.json
+D:\Softuni\SoftUniC#\07.MinNumber\bin\Debug\net6.0\07.MinNumber.runtimeconfig.json
+D:\Softuni\SoftUniC#\07.MinNumber\bin\Debug\net6.0\07.MinNumber.dll
+D:\Softuni\SoftUniC#\07.MinNumber\bin\Debug\net6.0\07.MinNumber.pdb
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.dll
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\refint\07.MinNumber.dll
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.pdb
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\07.MinNumber.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\07.MinNumber\obj\Debug\net6.0\ref\07.MinNumber.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\08.IncreasingElements\bin\Debug\net6.0\08.IncreasingElements.exe
+D:\Softuni\SoftUniC#\08.IncreasingElements\bin\Debug\net6.0\08.IncreasingElements.deps.json
+D:\Softuni\SoftUniC#\08.IncreasingElements\bin\Debug\net6.0\08.IncreasingElements.runtimeconfig.json
+D:\Softuni\SoftUniC#\08.IncreasingElements\bin\Debug\net6.0\08.IncreasingElements.dll
+D:\Softuni\SoftUniC#\08.IncreasingElements\bin\Debug\net6.0\08.IncreasingElements.pdb
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.dll
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\refint\08.IncreasingElements.dll
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.pdb
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\08.IncreasingElements.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\08.IncreasingElements\obj\Debug\net6.0\ref\08.IncreasingElements.dll

@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.PipesInPool\bin\Debug\net6.0\02.PipesInPool.exe
+D:\Softuni\SoftUniC#\02.PipesInPool\bin\Debug\net6.0\02.PipesInPool.deps.json
+D:\Softuni\SoftUniC#\02.PipesInPool\bin\Debug\net6.0\02.PipesInPool.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.PipesInPool\bin\Debug\net6.0\02.PipesInPool.dll
+D:\Softuni\SoftUniC#\02.PipesInPool\bin\Debug\net6.0\02.PipesInPool.pdb
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.dll
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\refint\02.PipesInPool.dll
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.pdb
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\02.PipesInPool.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.PipesInPool\obj\Debug\net6.0\ref\02.PipesInPool.dll

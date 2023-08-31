@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\bin\Debug\net6.0\4.InchesToCentimeters.exe
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\bin\Debug\net6.0\4.InchesToCentimeters.deps.json
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\bin\Debug\net6.0\4.InchesToCentimeters.runtimeconfig.json
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\bin\Debug\net6.0\4.InchesToCentimeters.dll
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\bin\Debug\net6.0\4.InchesToCentimeters.pdb
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.dll
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\refint\4.InchesToCentimeters.dll
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.pdb
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\4.InchesToCentimeters.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\4.InchesToCentimeters\obj\Debug\net6.0\ref\4.InchesToCentimeters.dll

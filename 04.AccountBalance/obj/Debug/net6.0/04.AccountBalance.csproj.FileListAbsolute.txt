@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\04.AccountBalance\bin\Debug\net6.0\04.AccountBalance.exe
+D:\Softuni\SoftUniC#\04.AccountBalance\bin\Debug\net6.0\04.AccountBalance.deps.json
+D:\Softuni\SoftUniC#\04.AccountBalance\bin\Debug\net6.0\04.AccountBalance.runtimeconfig.json
+D:\Softuni\SoftUniC#\04.AccountBalance\bin\Debug\net6.0\04.AccountBalance.dll
+D:\Softuni\SoftUniC#\04.AccountBalance\bin\Debug\net6.0\04.AccountBalance.pdb
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.dll
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\refint\04.AccountBalance.dll
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.pdb
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\04.AccountBalance.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\04.AccountBalance\obj\Debug\net6.0\ref\04.AccountBalance.dll

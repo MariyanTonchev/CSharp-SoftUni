@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\bin\Debug\net6.0\11.IncreasingFourNumbers.exe
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\bin\Debug\net6.0\11.IncreasingFourNumbers.deps.json
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\bin\Debug\net6.0\11.IncreasingFourNumbers.runtimeconfig.json
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\bin\Debug\net6.0\11.IncreasingFourNumbers.dll
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\bin\Debug\net6.0\11.IncreasingFourNumbers.pdb
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.dll
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\refint\11.IncreasingFourNumbers.dll
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.pdb
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\11.IncreasingFourNumbers.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\11.IncreasingFourNumbers\obj\Debug\net6.0\ref\11.IncreasingFourNumbers.dll

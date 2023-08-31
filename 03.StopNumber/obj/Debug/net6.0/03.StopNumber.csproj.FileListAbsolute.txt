@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.StopNumber\bin\Debug\net6.0\03.StopNumber.exe
+D:\Softuni\SoftUniC#\03.StopNumber\bin\Debug\net6.0\03.StopNumber.deps.json
+D:\Softuni\SoftUniC#\03.StopNumber\bin\Debug\net6.0\03.StopNumber.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.StopNumber\bin\Debug\net6.0\03.StopNumber.dll
+D:\Softuni\SoftUniC#\03.StopNumber\bin\Debug\net6.0\03.StopNumber.pdb
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.dll
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\refint\03.StopNumber.dll
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.pdb
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\03.StopNumber.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.StopNumber\obj\Debug\net6.0\ref\03.StopNumber.dll

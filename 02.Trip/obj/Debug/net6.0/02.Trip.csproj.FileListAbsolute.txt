@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\02.Trip\bin\Debug\net6.0\02.Trip.exe
+D:\Softuni\SoftUniC#\02.Trip\bin\Debug\net6.0\02.Trip.deps.json
+D:\Softuni\SoftUniC#\02.Trip\bin\Debug\net6.0\02.Trip.runtimeconfig.json
+D:\Softuni\SoftUniC#\02.Trip\bin\Debug\net6.0\02.Trip.dll
+D:\Softuni\SoftUniC#\02.Trip\bin\Debug\net6.0\02.Trip.pdb
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.dll
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\refint\02.Trip.dll
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.pdb
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\02.Trip.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\02.Trip\obj\Debug\net6.0\ref\02.Trip.dll

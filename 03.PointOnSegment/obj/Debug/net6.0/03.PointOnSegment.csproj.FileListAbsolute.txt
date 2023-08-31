@@ -1,0 +1,15 @@
+D:\Softuni\SoftUniC#\03.PointOnSegment\bin\Debug\net6.0\03.PointOnSegment.exe
+D:\Softuni\SoftUniC#\03.PointOnSegment\bin\Debug\net6.0\03.PointOnSegment.deps.json
+D:\Softuni\SoftUniC#\03.PointOnSegment\bin\Debug\net6.0\03.PointOnSegment.runtimeconfig.json
+D:\Softuni\SoftUniC#\03.PointOnSegment\bin\Debug\net6.0\03.PointOnSegment.dll
+D:\Softuni\SoftUniC#\03.PointOnSegment\bin\Debug\net6.0\03.PointOnSegment.pdb
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.csproj.AssemblyReference.cache
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.AssemblyInfoInputs.cache
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.AssemblyInfo.cs
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.csproj.CoreCompileInputs.cache
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.dll
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\refint\03.PointOnSegment.dll
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.pdb
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\03.PointOnSegment.genruntimeconfig.cache
+D:\Softuni\SoftUniC#\03.PointOnSegment\obj\Debug\net6.0\ref\03.PointOnSegment.dll
